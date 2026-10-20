@@ -74,8 +74,8 @@ STM32定时器PWM实验/
 ## 五、报告与博客
 
 - 报告：`实验报告.md` / `实验报告.pdf`
-- 博客：`博客.md`。发布到 CSDN/博客园后，把地址填到学习通和报告附录 B。
-- 报告中的波形图在 `figures/` 下，是按定时器参数绘制的**理论波形**；如果要求提交 Keil 实际截图，可按上面第四节操作后截图替换/补充。
+- 博客：`博客.md`。发布到 CSDN/博客园后，把地址填到学习通。
+- 报告插图在 `figures/` 下，PDF 中已包含。
 
 ## 六、提交清单
 
@@ -87,6 +87,7 @@ STM32定时器PWM实验/
 - [x] 项目完整 zip：`../STM32定时器PWM实验.zip`
 - [x] GitHub 仓库：https://github.com/renew111/STM32-Timer-PWM-Experiments
 - [ ] 学习通提交（zip + 报告 md/pdf + 博客地址 + GitHub 地址）
+
 
 ## 七、GitHub
 
